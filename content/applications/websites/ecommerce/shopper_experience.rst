@@ -1,5 +1,3 @@
-:nosearch:
-
 ========
 Get paid
 ========
