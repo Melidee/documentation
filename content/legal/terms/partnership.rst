@@ -21,43 +21,45 @@ Odoo Partnership Agreement
 
 | BETWEEN:
 |  Odoo S.A., having its registered office at Chaussée de Namur, 40, 1367 Grand-Rosière,
-|  Belgium, and its affiliates (collectively referred to as “ODOO”)
+|  Belgium, and its affiliates (collectively referred to as "ODOO")
 | AND:
 |  _____________________________________________, a company having its registered office at
 |  _____________________________________________________________________________________.
-|  (hereinafter referred to as “PARTNER”)
+|  (hereinafter referred to as "PARTNER")
 
 ODOO and PARTNER are individually referred to as a "Party" and collectively referred to as
 "the Parties".
 
 1 Purpose
 =========
+
 The purpose of this agreement is to set forth the conditions under which ODOO provides services to
 PARTNER, access to the Odoo Enterprise Edition software, and under which PARTNER complies with the
 obligations set out hereafter.
 
-ODOO hereby appoints PARTNER, and PARTNER hereby accepts the appointment, to be a non-exclusive partner
-promoting and selling "Odoo Enterprise Edition" to customers.
+ODOO hereby appoints PARTNER, and PARTNER hereby accepts the appointment, to be a non-exclusive
+partner promoting and selling "Odoo Enterprise Edition" to customers.
 
-PARTNER commits to doing its best effort to sell Odoo Enterprise contracts to its clients.
-To support that, PARTNER will market in priority the "Odoo Enterprise Edition" version to prospects
-and customers. PARTNER still has the option to sell services on other versions of the software,
-like "Odoo Community Edition", should it be needed.
+PARTNER commits to doing its best effort to sell Odoo Enterprise contracts to its clients. To
+support that, PARTNER will market in priority the "Odoo Enterprise Edition" version to prospects and
+customers. PARTNER still has the option to sell services on other versions of the software, like
+"Odoo Community Edition", should it be needed.
 
 2 Term of the Agreement
 =======================
-The duration of this Agreement (the “Term”) shall be one year beginning on the date of the signature.
-It is automatically renewed for an equal Term unless either party provides written notice of
-termination minimum 30 days before the end of the Term to the other party.
 
+The duration of this Agreement (the "Term") shall be one year beginning on the date of the
+signature. It is automatically renewed for an equal Term unless either party provides written notice
+of termination minimum 30 days before the end of the Term to the other party.
 
 3 Access to Odoo Enterprise Edition
 ===================================
 
 3.1 Project platform access
 ---------------------------
-To help PARTNER promote Odoo Enterprise Edition, ODOO grants PARTNER access to its project code repository
-for all "Odoo Enterprise Edition" Apps, under the terms set forth in :ref:`appendix_p_a`
+
+To help PARTNER promote Odoo Enterprise Edition, ODOO grants PARTNER access to its project code
+repository for all "Odoo Enterprise Edition" Apps, under the terms set forth in :ref:`appendix_p_a`
 and the conditions restricted under this Agreement.
 
 In addition, ODOO grants PARTNER free access to the ODOO.SH platform for testing and development
@@ -67,32 +69,32 @@ purposes.
 
 3.2 Restrictions
 ----------------
-PARTNER commits to keeping confidentiality of the source code of Odoo Enterprise Edition Apps
-within its staff. Access to the source code of Odoo Enterprise Edition for customers is
-governed by the Odoo Enterprise Subscription Agreement.
-PARTNER agrees to NOT redistribute this code to third parties without the written permission of ODOO.
 
-PARTNER commits to not offer services on Odoo Enterprise Edition to customers who are not covered
-by an Odoo Enterprise subscription, even during the implementation phase.
+PARTNER commits to keeping confidentiality of the source code of Odoo Enterprise Edition Apps within
+its staff. Access to the source code of Odoo Enterprise Edition for customers is governed by the
+Odoo Enterprise Subscription Agreement. PARTNER agrees to NOT redistribute this code to third
+parties without the written permission of ODOO.
 
-Notwithstanding the above, PARTNER commits to wholly preserve the integrity of the
-Odoo Enterprise Edition code that is required to verify the validity of usage of Odoo Enterprise
-Edition and to collect statistics that are needed for that purpose.
+PARTNER commits to not offer services on Odoo Enterprise Edition to customers who are not covered by
+an Odoo Enterprise subscription, even during the implementation phase.
 
+Notwithstanding the above, PARTNER commits to wholly preserve the integrity of the Odoo Enterprise
+Edition code that is required to verify the validity of usage of Odoo Enterprise Edition and to
+collect statistics that are needed for that purpose.
 
 4 Partnership Services
 ======================
 
 4.1 Partnership levels
 ----------------------
-The Odoo partner program consists of two types of partnerships and four levels;
-“Learning Partners” is for companies who want everything necessary to start implementing Odoo,
-without visibility as an official partner until they get the required experience;
-“Official Partners” is for companies who want the visibility as Ready, Silver, and Gold,
-according to their experience with Odoo.
 
-Partnership level granted to PARTNER depends on the annual new Odoo Enterprise revenue generated
-for ODOO (in terms of Odoo Enterprise Users sold), the number of certified resources and the customer
+The Odoo partner program consists of two types of partnerships and four levels; "Learning Partners"
+is for companies who want everything necessary to start implementing Odoo, without visibility as an
+official partner until they get the required experience; "Official Partners" is for companies who
+want the visibility as Ready, Silver, and Gold, according to their experience with Odoo.
+
+Partnership level granted to PARTNER depends on the annual new Odoo Enterprise revenue generated for
+ODOO (in terms of Odoo Enterprise Users sold), the number of certified resources and the customer
 Retention Rate.
 Renewals of existing contracts do not count towards the number of Users Sold, but PARTNER
 still gets a commission on these contracts as stated in section :ref:`benefits`.
@@ -111,8 +113,8 @@ The table below summarizes the requirements that have to be met for each partner
 +--------------------------------------------+------------------+--------------------+--------------------+--------------------+
 
 The Retention Rate is defined as the ratio between the number of Odoo Enterprise contracts that
-are currently active, and the number of Odoo Enterprise contracts that have been active at some point
-in the last 12 months
+are currently active, and the number of Odoo Enterprise contracts that have been active at some
+point in the last 12 months
 
 Certifications are personal, so when a certified staff member leaves or joins the company,
 PARTNER must notify ODOO.
@@ -122,7 +124,6 @@ to the highest level for which the 3 requirements are met.
 
 However, "Official Partners" may be upgraded automatically to a higher level once they reach the
 3 requirements for that higher partnership level.
-
 
 .. _benefits:
 
@@ -183,9 +184,9 @@ The details of the benefits for each level of the partnership are described in t
 
 .. [#s1] up to a maximum of 150€ (or 180$) of monthly commission per subscription
 
-
 4.3 Partner Recognition
 -----------------------
+
 ODOO will promote "Official Partners" on the Odoo Partners list on odoo.com.
 
 ODOO grants PARTNER, on a non-exclusive basis, the right to use and reproduce the ODOO Partner logo
@@ -198,6 +199,7 @@ or creating any confusion between their respective company in the mind of the ge
 
 4.4 Training Benefits
 ---------------------
+
 PARTNER has access to the ODOO knowledge base for the duration of this Agreement.
 The ODOO knowledge base is an online e-platform containing a set of commercial, marketing
 and functional documents, to help PARTNER acquire and leverage Odoo knowledge, grow its business,
@@ -211,6 +213,7 @@ Success Pack, for an extra fee.
 
 4.5  Commissions on Odoo Services sold by PARTNER
 -------------------------------------------------
+
 For ODOO services purchased by a customer through PARTNER, and as long as PARTNER maintains a
 contractual relationship with the corresponding customer, PARTNER shall receive a commission
 according to the table of section :ref:`benefits` and their Partnership level at the date of the
@@ -229,40 +232,43 @@ of contact of the customer.
 PARTNER shall only receive the commission for the Maintenance of Covered Extra Modules
 as long as the customer does not notify ODOO that they want to stop Working with PARTNER.
 
-.. [#pcom1] “Working with an Odoo Partner” and “Covered Extra Modules” are defined in the Odoo
+.. [#pcom1] "Working with an Odoo Partner" and "Covered Extra Modules" are defined in the Odoo
    Enterprise Subscription Agreement between ODOO and customers.
 
 5 Fees
 ======
+
 PARTNER agrees to pay the Partnership Annual Fee upon receipt of the annual
 invoice sent by ODOO. The fee will be specified in writing at the time of signature of this
 agreement.
 
 PARTNER acknowledges that the above-mentioned Partnership fee is not refundable.
 
-
 6 Termination
 =============
+
 In the event that either Party fails to fulfill any of its obligations arising herein, and if such
 a breach has not been remedied within 30 calendar days from the written notice of such
 breach, this Agreement may be terminated immediately by the non-breaching Party.
 
 Surviving Provisions:
-  The sections ":ref:`restrictions`”, “:ref:`p_liability`”, and “:ref:`gov_law`” will survive
+  The sections ":ref:`restrictions`", ":ref:`p_liability`", and ":ref:`gov_law`" will survive
   any termination or expiration of this Agreement.
 
 6.1 Consequence of termination
 ------------------------------
+
 On expiry or termination of this Agreement, PARTNER:
  - shall not use anymore the materials and the Odoo brand name, trademarks and logos or claim
-   the existence of any partnership or relationship with ODOO ;
- - shall comply with its obligations during any notice period prior to such termination ;
+   the existence of any partnership or relationship with ODOO;
+ - shall comply with its obligations during any notice period prior to such termination;
  - may not use Odoo Enterprise anymore, for development, test or production purpose
 
 .. _p_liability:
 
 7 Liability and Indemnities
 ===========================
+
 Both Parties are bound by a best endeavours obligation hereunder.
 
 To the maximum extent permitted by law, ODOO’s liability for any and all claims, losses, damages or
@@ -280,7 +286,6 @@ PARTNER acknowledges that he has no expectations and has received no assurances 
 made in execution of this Agreement and the Odoo Partnership Program will be recovered or recouped
 or that he shall obtain any anticipated amount of profits by virtue of this Agreement.
 
-
 8 Brand Image
 =============
 
@@ -291,23 +296,23 @@ ODOO authorizes PARTNER to use the "Odoo" mark to promote its products and servi
 for the duration of this agreement only, as long as:
 
 - There is no possible confusion that the service is provided by PARTNER, not ODOO;
-- PARTNER does not use the word “Odoo” in their company name, product name, domain name,
+- PARTNER does not use the word "Odoo" in their company name, product name, domain name,
   and does not register any trademark that includes it.
 
 Both Parties shall refrain from harming the brand image and reputation of the other Party,
 in any way whatsoever, in the performance of this Agreement.
 
-Non-compliance with the provisions of this section shall be a cause for termination of this Agreement.
-
+Non-compliance with the provisions of this section shall be a cause for termination of this
+Agreement.
 
 8.1 Publicity
 -------------
+
 PARTNER grants ODOO the nonexclusive right to use PARTNER's name or trademarks in press releases,
 advertisements or other public announcements.
 
 In particular, PARTNER accepts to be mentioned in the official list of Odoo Partners on odoo.com,
 and that PARTNER's logo and trademarks may be used for this purpose only.
-
 
 .. _no_soliciting_partnership:
 
@@ -322,24 +327,23 @@ In case of any breach of the conditions of this section that leads to the termin
 employee toward that end, the breaching Party agrees to pay the other Party an amount of
 EUR (€) 30 000.00 (thirty thousand euros).
 
-
 8.3  Independent Contractors
 ----------------------------
+
 The Parties are independent contractors, and this Agreement shall not be construed as constituting
 either Party as a partner, joint venture or fiduciary of the other, as creating any other form of
-a legal association that would impose liability on one Party for the act or failure to act of the other
-or as providing either Party with the right, power or authority (express or implied) to create any
-duty or obligation of the other.
-
+a legal association that would impose liability on one Party for the act or failure to act of the
+other or as providing either Party with the right, power or authority (express or implied) to create
+any duty or obligation of the other.
 
 .. _gov_law:
 
 9  Governing Law and Jurisdiction
 =================================
+
 This Agreement will be governed by and construed in accordance with the laws of Belgium.
 All disputes arising in connection with the Agreement for which no amicable settlement can be
 found shall be finally settled by the Courts of Belgium in Nivelles.
-
 
 .. |vnegspace| raw:: latex
 
@@ -361,7 +365,6 @@ found shall be finally settled by the Courts of Belgium in Nivelles.
     | For ODOO,                             | For PARTNER                              |
     +---------------------------------------+------------------------------------------+
 
-
 .. only:: latex
 
     .. topic:: Signatures
@@ -369,7 +372,6 @@ found shall be finally settled by the Courts of Belgium in Nivelles.
         |vnegspace|
         |hspace| For ODOO, |hspace| For PARTNER,
         |vspace|
-
 
 .. _appendix_p_a:
 

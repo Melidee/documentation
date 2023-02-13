@@ -1,4 +1,3 @@
-
 .. _enterprise_agreement_de:
 
 ==================================
@@ -23,11 +22,12 @@ Odoo Enterprise Abonnementsvertrag
 .. 7.1: specify that 7% renewal increase applies to all charges, not just per-User.
 .. v8.0: adapt for "Self-Hosting" + "Data Protection" for GDPR
 .. v8a: minor wording changes, tuned User definition, + copyright guarantee
-.. v9.0: add "Working with an Odoo Partner" + Maintenance of [Covered] Extra Modules + simplifications
+.. v9.0: add "Working with an Odoo Partner" + Maintenance of [Covered] Extra Modules +
+         simplifications
 .. v9a: clarification wrt second-level assistance for standard features
 .. v9b: clarification that maintenance is opt-out + name of `cloc` command
-.. v9c: minor wording changes, tuned User definition, + copyright guarantee (re-application of v8a changes
-        on all branches)
+.. v9c: minor wording changes, tuned User definition, + copyright guarantee (re-application of v8a
+        changes on all branches)
 
 .. note:: Version 9c - 2020-06-15
 
@@ -159,7 +159,7 @@ unterstützten  Zusatzmodulen haftbar gemacht werden kann.
 .. _secu_self_hosting_de:
 
 Self-Hosting
-++++++++++++
+~~~~~~~~~~~~
 
     Für die Dauer dieser Vereinbarung verpflichtet sich Odoo SA, dem Kunden für jeden
     Sicherheitsfehler, der in den unterstützten Versionen der Software (dies schließt Zusatzmodule
@@ -176,7 +176,7 @@ Self-Hosting
 .. _secu_cloud_platform_de:
 
 Cloud-Plattform
-+++++++++++++++
+~~~~~~~~~~~~~~~
 
     Odoo SA verpflichtet sich, die Sicherheitsmaßnahmen für jeden Sicherheitsfehler, der in einer
     auf der Cloud-Plattform gehosteten Version der Software entdeckt wird, auf alle von Odoo SA
@@ -191,7 +191,7 @@ Cloud-Plattform
 .. _upgrade_odoo_de:
 
 Upgrade-Service für die Software
-++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Während der Laufzeit dieser Vereinbarung kann der Kunde über den entsprechenden Kanal (in der Regel
 die Upgrade-Service-Website von Odoo SA) Upgrade-Anträge stellen, um eine Datenbank der Software von
@@ -244,7 +244,7 @@ https://www.odoo.com/cloud-sla beschrieben.
 -------------------
 
 Umfang
-++++++
+~~~~~~
 
 Während der Laufzeit dieser Vereinbarung kann der Kunde eine unbegrenzte Anzahl von kostenlosen
 Support-Tickets öffnen, die ausschließlich Fragen zu Fehlern (siehe :ref:`bugfix_de`) oder
@@ -256,7 +256,7 @@ Erwerb einer separaten Servicevereinbarung abgedeckt werden. Falls nicht klar is
 von diesem Vertrag abgedeckt ist, liegt die Entscheidung im Ermessen von Odoo SA.
 
 Verfügbarkeit
-+++++++++++++
+~~~~~~~~~~~~~
 
 Tickets können über das Webformular oder die auf https://odoo.com/help aufgeführten Telefonnummern
 eingereicht werden, oder, wenn Sie mit einem Odoo-Partner zusammenarbeiten, über den von diesem
@@ -282,7 +282,7 @@ Odoo Cloud-Plattform gehostet wird.
 .. _charges_de:
 
 5. Kosten und Gebühren
-=======================
+======================
 
 .. _charges_standard_de:
 
@@ -430,7 +430,7 @@ Definitionen
     "Datenschutzgesetzgebung" bezeichnet).
 
 Verarbeitung von personenbezogenen Daten
-++++++++++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Die Parteien erkennen an, dass die Datenbank des Kunden personenbezogene Daten enthalten kann, für
 die der Kunde verantwortlich ist. Diese Daten werden von Odoo SA verarbeitet, wenn der Kunde dies
@@ -472,7 +472,7 @@ Kontaktinformationen zur Verfügung zu stellen, die für die Benachrichtigung de
 Datenschutzbeauftragten des Kunden erforderlich sind.
 
 Unterauftragsverarbeiter
-++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Der Kunde nimmt zur Kenntnis und erklärt sich damit einverstanden, dass Odoo SA zur Erbringung der
 Dienstleistungen Dritte (Unterauftragsverarbeiter) mit der Verarbeitung personenbezogener Daten
@@ -511,9 +511,9 @@ Fortgeltende Bestimmungen:
 7.1 Garantien
 -------------
 
-Odoo SA besitzt das Urheberrecht oder ein gleichwertiges Recht [#cla_de1]_ an 100 % des Codes der Software und
-bestätigt, dass alle Softwarebibliotheken, die für die Nutzung der Software erforderlich sind, unter
-einer mit der Softwarelizenz kompatiblen Lizenz verfügbar sind.
+Odoo SA besitzt das Urheberrecht oder ein gleichwertiges Recht [#cla_de1]_ an 100 % des Codes der
+Software und bestätigt, dass alle Softwarebibliotheken, die für die Nutzung der Software
+erforderlich sind, unter einer mit der Softwarelizenz kompatiblen Lizenz verfügbar sind.
 
 Odoo SA verpflichtet sich für die Dauer dieser Vereinbarung, Dienstleistungen nach wirtschaftlich
 vertretbarem Aufwand in Übereinstimmung mit den allgemein anerkannten Branchenstandards auszuführen,
@@ -573,7 +573,7 @@ Partner auf andere Weise seinen wesentlichen Zweck verfehlt.
 .. _force_majeure_de:
 
 7.4 Höhere Gewalt
-------------------
+-----------------
 
 Keine der Parteien haftet gegenüber der anderen Partei für die Verzögerung oder das Nichterbringen
 einer Leistung aus dieser Vereinbarung, wenn die Ursache für die Verzögerung oder das Nichterbringen
@@ -607,7 +607,6 @@ Durchsetzbarkeit der übrigen Bestimmungen dieser Vereinbarung und ihrer Anwendu
 Weise berührt oder beeinträchtigt. Beide Parteien verpflichten sich, jede ungültige, rechtswidrige
 oder nicht durchsetzbare Bestimmung dieser Vereinbarung durch eine gültige Bestimmung zu ersetzen,
 die die gleichen Auswirkungen und Ziele hat.
-
 
 .. _appendix_a_de:
 

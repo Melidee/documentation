@@ -1,4 +1,3 @@
-
 .. _enterprise_agreement_nl:
 
 ===========================================
@@ -12,19 +11,20 @@ Odoo Enterprise Subscription Agreement (NL)
     Dit is een Nederlandse vertaling van de "Odoo Enterprise Subscription Agreement".
     Deze vertaling wordt verstrekt in de hoop dat deze het begrip zal vergemakkelijken,
     maar heeft geen juridische waarde.
-    De enige officiële referentie van de algemene voorwaarden van de "Odoo Enterprise Subscription Agreement"
-    is :ref:`de originele Engelse versie <enterprise_agreement>`
+    De enige officiële referentie van de algemene voorwaarden van de "Odoo Enterprise Subscription
+    Agreement" is :ref:`de originele Engelse versie <enterprise_agreement>`
 
 .. v6: add "App" definition + update pricing per-App
 .. v7: remove possibility of price change at renewal after prior notice
 .. 7.1: specify that 7% renewal increase applies to all charges, not just per-User.
 .. v8.0: adapt for "Self-Hosting" + "Data Protection" for GDPR
 .. v8a: minor wording changes, tuned User definition, + copyright guarantee
-.. v9.0: add "Working with an Odoo Partner" + Maintenance of [Covered] Extra Modules + simplifications
+.. v9.0: add "Working with an Odoo Partner" + Maintenance of [Covered] Extra Modules +
+         simplifications
 .. v9a: clarification wrt second-level assistance for standard features
 .. v9b: clarification that maintenance is opt-out + name of `cloc` command
-.. v9c: minor wording changes, tuned User definition, + copyright guarantee (re-application of v8a changes
-        on all branches)
+.. v9c: minor wording changes, tuned User definition, + copyright guarantee (re-application of v8a
+        changes on all branches)
 .. v10: fall 2022 pricing change - removal of "per app" notions
 .. v10a: clarified wording for Section 5.1 "(at that time)"
 
@@ -174,7 +174,7 @@ Extra Modules.
 .. _secu_self_hosting_nl:
 
 Self-Hosting
-++++++++++++
+~~~~~~~~~~~~
 
 Voor de duur van deze Overeenkomst verbingt Odoo NV zich ertoe een "Veiligheidsadvies"
 naar de Klant te sturen voor elke beveiligingsfout die wordt ontdekt in de Ondersteunde
@@ -192,7 +192,7 @@ als Vertrouwelijke Informatie zoals beschreven in
 .. _secu_cloud_platform_nl:
 
 Cloudplatform
-+++++++++++++
+~~~~~~~~~~~~~
 
 Odoo NV verbindt zich ertoe om de beveiligingsoplossingen voor elke beveiligingsbug
 die wordt ontdekt in een versie van de Software die op het Cloudplatform wordt gehost,
@@ -202,12 +202,12 @@ zonder dat daarvoor enige handmatige actie van de Klant nodig is.
 .. _upgrade_nl:
 
 4.3 Upgradediensten
---------------------
+-------------------
 
 .. _upgrade_odoo_nl:
 
 Upgradedienst voor de Software
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Voor de duur van deze Overeenkomst kan de Klant via het juiste kanaal
 (doorgaans de upgradedienstwebsite van Odoo NV) upgradeaanvragen indienen om
@@ -263,7 +263,7 @@ Agreement-pagina op https://www.odoo.com/cloud-sla.
 ------------------------
 
 Toepassingsgebied
-+++++++++++++++++
+~~~~~~~~~~~~~~~~~
 
 Voor de duur van deze Overeenkomst kan de klant gratis een onbeperkt aantal ondersteuningstickets
 openen, uitsluitend voor vragen over Bugs (zie :ref:`bugfix_nl`) of begeleiding met betrekking
@@ -275,7 +275,7 @@ duidelijk is of een verzoek onder deze Overeenkomst valt, ligt het uiteindelijke
 bij Odoo NV.
 
 Beschikbaarheid
-+++++++++++++++
+~~~~~~~~~~~~~~~
 
 Tickets kunnen worden ingediend via het websiteformulier of de telefoonnummers
 vermeld op https://www.odoo.com/help of, in geval van samenwerking met een
@@ -466,7 +466,7 @@ Definities
     "Gegevensbeschermingswetgeving" genoemd).
 
 Verwerken van persoonsgegevens
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De partijen erkennen dat de database van de Klant Persoonsgegevens kan bevatten, waarvoor
 de Klant de Verwerkingsverantwoordelijke is. Deze gegevens worden verwerkt door Odoo NV wanneer
@@ -508,15 +508,15 @@ voorzien van nauwkeurige contactgegevens, die nodig zijn om de verantwoordelijke
 gegevensbescherming van de Klant in kennis te stellen.
 
 Subverwerkers
-+++++++++++++
+~~~~~~~~~~~~~
 
-De Klant erkent en gaat ermee akkoord dat Odoo NV voor de levering van de Diensten een beroep kan doen
-op externe dienstverleners (Subverwerkers) om Persoonsgegevens te verwerken. Odoo NV verbindt zich ertoe
-alleen Subverwerkers te gebruiken in overeenstemming met de Gegevensbeschermingswetgeving.
-Dit gebruik zal het voorwerp zijn van een contract tussen Odoo NV en de Subverwerker dat daartoe
-garanties biedt. Het Privacybeleid van Odoo NV, beschikbaar op https://www.odoo.com/privacy
-biedt actuele informatie over de namen en doeleinden van Subverwerkers waarop Odoo NV
-momenteel een beroep doet in het kader van de uitvoering van de Diensten.
+De Klant erkent en gaat ermee akkoord dat Odoo NV voor de levering van de Diensten een beroep kan
+doen op externe dienstverleners (Subverwerkers) om Persoonsgegevens te verwerken. Odoo NV verbindt
+zich ertoe alleen Subverwerkers te gebruiken in overeenstemming met de
+Gegevensbeschermingswetgeving. Dit gebruik zal het voorwerp zijn van een contract tussen Odoo NV en
+de Subverwerker dat daartoe garanties biedt. Het Privacybeleid van Odoo NV, beschikbaar op
+https://www.odoo.com/privacy biedt actuele informatie over de namen en doeleinden van Subverwerkers
+waarop Odoo NV momenteel een beroep doet in het kader van de uitvoering van de Diensten.
 
 .. _termination_nl:
 
@@ -548,7 +548,7 @@ Overlevende bepalingen:
 .. _warranties_nl:
 
 7.1 Garanties
---------------
+-------------
 
 Odoo NV bezit het auteursrecht of een gelijkwaardig recht [#cla_nl1]_ op 100 % van
 de code van de Software en bevestigt dat alle softwarebibliotheken die nodig zijn om de Software
@@ -570,9 +570,9 @@ Het enige en exclusieve verhaal van de Klant en de enige verplichting van Odoo
 NV in geval van een inbreuk op deze garantie is dat Odoo NV de uitvoering van
 de Diensten zonder extra kosten hervat.
 
-.. [#cla_nl1] Externe bijdragen worden gedekt door een `Copyright License Agreement <https://www.odoo.com/cla>`_
-           die een permanente, gratis en onherroepelijke auteursrecht- en octrooilicentie
-           aan Odoo NV verstrekt.
+.. [#cla_nl1] Externe bijdragen worden gedekt door een `Copyright License Agreement
+              <https://www.odoo.com/cla>`_ die een permanente, gratis en onherroepelijke
+              auteursrecht- en octrooilicentie aan Odoo NV verstrekt.
 
 .. _disclaimers_nl:
 

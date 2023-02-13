@@ -15,7 +15,6 @@ Odoo 14 Community Edition is licensed under
 See also the `GPL FAQ <http://www.gnu.org/licenses/gpl-faq.en.html>`_ and the
 `compatibility matrix <http://www.gnu.org/licenses/gpl-faq.en.html#AllCompatibility>`_.
 
-
 .. _odoo_enterprise_license:
 
 Odoo 14 Enterprise Edition
@@ -35,7 +34,6 @@ defined as follows:
 .. raw:: html
 
     </tt>
-
 
 .. _odoo_apps_license:
 
@@ -94,7 +92,6 @@ Odoo versions since Odoo 9 are respectively the same as for
 :ref:`odoo_community_license` and :ref:`odoo_enterprise_license`.
 
 .. _odoo_8_license:
-
 
 Odoo 8
 ======
