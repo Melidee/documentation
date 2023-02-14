@@ -193,13 +193,11 @@ The Website Builder supports the following image file formats: JPG, GIF, PNG, an
    * - Field
      - Description
    * - name
-     - Page name
+     - Image name
    * - datas
-     - Define if the page is published (visible to visitors).
+     - Path to the image file
    * - res_model
-     - ...
-   * - public
-     - ...
+     - Name of the wizard model
 
 Use as a background image.
 
@@ -220,7 +218,7 @@ Use as a regular image with a color filter.
    <img src="/web/image/website.s_media_list_default_image_1"
        class="img img-fluid mx-auto" alt=""
        data-gl-filter="custom"
-       data-filter-options='{"filterColor": "rgba(0, 0, 0, 0.5)"}'/>
+       data-filter-options="{'filterColor': 'rgba(0, 0, 0, 0.5)'}"/>
 
 .. tip::
    The image size greatly influences the user experience, search engine optimization, and overall

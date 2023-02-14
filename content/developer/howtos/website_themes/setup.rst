@@ -168,7 +168,8 @@ Reset the admin user password.
 
 .. code-block:: xml
 
-   psql \c <database_name>
+   psql \c
+   <database_name>
    update res_users set login='admin', password='admin' where id=2;
 
 Getting started
